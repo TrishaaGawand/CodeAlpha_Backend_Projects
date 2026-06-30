@@ -71,8 +71,9 @@ cd EventRegistrationSystem/frontend
 npm install
 npm start
 
+```
 
-### 1. Simple URL Shortner 🎫
+### 2. Simple URL Shortner 🎫
 
 ```bash
 # Backend
