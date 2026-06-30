@@ -56,7 +56,9 @@ This repository contains **two backend development projects** completed during m
 - MongoDB (local or Atlas)
 - npm or yarn
 
-### Event Registration System
+---
+
+### 1. Event Registration System 🎫
 
 ```bash
 # Backend
@@ -64,7 +66,7 @@ cd EventRegistrationSystem/backend
 npm install
 npm run dev
 
-# Frontend
+# Frontend (in a new terminal)
 cd EventRegistrationSystem/frontend
 npm install
 npm start
