@@ -70,3 +70,17 @@ npm run dev
 cd EventRegistrationSystem/frontend
 npm install
 npm start
+
+
+### 1. Simple URL Shortner 🎫
+
+```bash
+# Backend
+cd URLShortener/backend
+npm install
+npm run dev
+
+# Frontend (in a new terminal)
+cd URLShortener/frontend
+npm install
+npm start
